@@ -1,6 +1,0 @@
-a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
-print("The sum is:", a + b)
-print("The difference is:", a - b)
-print("The product is:", a * b) 
-print("hello world ")
